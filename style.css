@@ -1,0 +1,30 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+   }
+   body{
+     background-image: url("images/fuzzy.jpg")
+   }
+   .header{
+     background-color: rgba(100, 148, 237, 0.13);
+     text-align: center;
+     
+   
+   }
+   
+   .about-me{
+     font-size: 20px;
+     opacity: .5;
+   
+   }
+   
+   .title{
+     font-weight: bold;
+   }
+   
+   h1{
+     color: azure;
+   }
+   
+   
